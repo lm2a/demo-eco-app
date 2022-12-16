@@ -14,6 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 public class SaludoServlet extends HttpServlet implements Serializable
 {     
 	
+	private static final long serialVersionUID = 5999265162415750352L;
 	private static final Logger LOGGER = Logger.getLogger( SaludoServlet.class.getName() );
 
 	@Override
