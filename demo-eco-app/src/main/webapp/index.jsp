@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Demo ECO App</h2>
-<h2>Saludator</h2>
+<h2>Saludator App</h2>
 
 <FORM ACTION="sayHello" METHOD="POST">
     <label id="lblNombre">Nombre</label>   
